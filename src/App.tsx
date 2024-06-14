@@ -25,6 +25,8 @@ const App: React.FC = () => {
       setTodo("")
     }
 
+
+    
   }
 
   const onDragEnd = (result: DropResult) => {
